@@ -13,7 +13,7 @@ int main(){
     
     for(int i=0;i<N;i++){
         max=max>arr[i]?max:arr[i];  // used ternary operator which says if condition is 
-        min=min<arr[i]?min:arr[i]; //  is true then return first one else the second one.
+        min=min<arr[i]?min:arr[i];  //  is true then return first one else the second one.
     }
     cout<<"max: "<<max<<endl;
     cout<<"min: "<<min<<endl;
