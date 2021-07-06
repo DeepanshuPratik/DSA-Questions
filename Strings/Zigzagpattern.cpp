@@ -49,10 +49,17 @@ int main(){
         else{
             for(i=0;i<col;i++){
                 for(j=0;j<row;j++){
-                    arr[j][i]=s[k];
-                    k++;
+                    if(s[k]!='\0'){
+                        arr[j][i]=s[k];
+                        k++;
+                    }
+                    else arr[j][i]=' ';
                 }
             }
+            // i=0; j=0; 
+            // while(s[k]!='\0'){
+
+            // }
         }
         for(i=0;i<row;i++){
             for(j=0;j<col;j++)
