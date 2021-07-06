@@ -4,11 +4,11 @@ Here I am going to update this file daily with a question and hope one day it wi
 
 <h3>Topics going to be covered:</h3>
 <ul>
-  <li>Arrays</li>
+  <li>[Arrays](./Arrays)</li>
   <li>Matrix</li>
-  <li>Strings</li>
+  <li>[Strings](./Strings)</li>
   <li>Searching & Sorting</li>
-  <li>Linked List</li>
+  <li>[Linked List](./LinkedList)</li>
   <li>Binary Trees</li>
   <li>Binary Search Trees(BST)</li>
   <li>Greedy Algorithm</li>
@@ -17,5 +17,6 @@ Here I am going to update this file daily with a question and hope one day it wi
   <li>Heaps</li>
   <li>Graph</li>
   <li>Trie</li>
+  <li>[Maps](./Maps)</li>
   <li>Dynammic Programming</li>
   <li>Bit Manipulation</li>
