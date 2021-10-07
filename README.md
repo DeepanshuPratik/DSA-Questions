@@ -7,7 +7,7 @@ Here I am going to update this file daily with a question and hope one day it wi
   <li><a style="text-decoration:none;" target="_blank" href="https://github.com/DeepanshuPratik/DSA-Questions/tree/main/Arrays" >Arrays</a></li>
   <li>Matrix</li>
   <li><a style="text-decoration:none;" target="_blank" href="https://github.com/DeepanshuPratik/DSA-Questions/tree/main/Strings" >Strings</a></li>
-  <li>Searching & Sorting</li>
+  <li><a style="text-decoration:none;" target="_blank" href="https://github.com/DeepanshuPratik/DSA-Questions/tree/main/Searching_Algorithms" >Searching & Sorting</a></li>
   <li><a style="text-decoration:none;" target="_blank" href="https://github.com/DeepanshuPratik/DSA-Questions/tree/main/LinkedList">Linked List</a></li>
   <li>Binary Trees</li>
   <li>Binary Search Trees(BST)</li>
